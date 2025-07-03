@@ -43,7 +43,7 @@ Whether it's Linux basics, Web exploitation, or reverse engineering, you'll find
 ---
 
 ## 📂 Repository Structure
-
+```
 Cyber-Progress/
 ├── 🧪 HTB-Labs/
 │ ├── [MachineName]/
@@ -58,6 +58,7 @@ Cyber-Progress/
 │ └── linux-commands.md
 └── 📖 Writeups/
 └── CTFs/
+```
 
 
 ---
