@@ -43,3 +43,28 @@ Whether it's Linux basics, Web exploitation, or reverse engineering, you'll find
 ---
 
 ## 📂 Repository Structure
+
+Cyber-Progress/
+├── 🧪 HTB-Labs/
+│ ├── [MachineName]/
+│ │ ├── notes.md
+│ │ └── exploit.py
+├── 🔐 TryHackMe/
+│ └── ...
+├── 🛠️ Tools/
+│ ├── python/
+│ └── bash/
+├── 📘 Cheatsheets/
+│ └── linux-commands.md
+└── 📖 Writeups/
+└── CTFs/
+
+
+---
+
+## ✨ Goal
+
+Achieve a **solid pentesting skillset** by:
+- Reaching HTB **Pro Hacker**
+- Completing the **CPTS certification**
+- Building a **cybersecurity portfolio** before applying to engineering schools 🚀
